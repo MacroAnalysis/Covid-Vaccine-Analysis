@@ -22,6 +22,11 @@ So, why did I analyze these countries? Well, they all have different vaccination
 
 Here are the same countries with their respective one dose vaccination rates.
 
-The trend is obvious but none of this data matters with relativity.
+The trend is obvious but none of this data matters without relativity.
 
 What about population size?
+
+![Population - covid Graph](https://user-images.githubusercontent.com/101907663/177394294-c35f807e-c201-4e32-a507-5f7aa705af7f.png)
+
+So, a simple question for you, why is Africa doing so good with Covid-19 while the West is seeing record numbers in hospitalizations, deaths, cases, etc?
+
