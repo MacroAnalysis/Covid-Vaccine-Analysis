@@ -14,11 +14,11 @@ This is just one of the many concerning revelations of the Pfizer documents, thi
 
 2.) Data Analysis - Population size, person(s) at least one dose vaccinated, cumulative deaths
 
-![Covid-19 Cumulative Deaths](https://user-images.githubusercontent.com/101907663/177392551-7bbce0fe-ffe4-4af5-b551-6b032af688b2.png)
+![Covid - Deaths](https://user-images.githubusercontent.com/101907663/177395366-bb5253ff-5f9a-4aa5-a06b-b0210f932812.png)
 
 So, why did I analyze these countries? Well, they all have different vaccination rates and handled the onset and spread of the virus in different ways
 
-![Covid-19 - One Dose ](https://user-images.githubusercontent.com/101907663/177392898-7a24c976-aec0-48fc-a0dc-c11a1769d165.png)
+![Covid - One Dose](https://user-images.githubusercontent.com/101907663/177395397-94e33976-5960-46a8-aec0-7f3c1bdf95b3.png)
 
 Here are the same countries with their respective one dose vaccination rates.
 
@@ -26,7 +26,8 @@ The trend is obvious but none of this data matters without relativity.
 
 What about population size?
 
-![Population - covid Graph](https://user-images.githubusercontent.com/101907663/177394294-c35f807e-c201-4e32-a507-5f7aa705af7f.png)
+![covid - Population](https://user-images.githubusercontent.com/101907663/177395418-092afca5-7487-4f55-8425-d01645b08529.png)
 
-So, a simple question for you, why is Africa doing so good with Covid-19 while the West is seeing record numbers in hospitalizations, deaths, cases, etc?
+So, why is Africa staying so resillient when compared to the West? Why are western countries with less populations than entire continents experiencing more deaths per million people?
+
 
