@@ -16,7 +16,8 @@ This is just one of the many concerning revelations of the Pfizer documents, thi
 
 ![Covid - Deaths](https://user-images.githubusercontent.com/101907663/177395366-bb5253ff-5f9a-4aa5-a06b-b0210f932812.png)
 
-> So, why did I analyze these countries? Well, they all have different vaccination rates and handled the onset and spread of the virus in different ways
+> So, why did I analyze these countries? 
+Well, they all have different vaccination rates and handled the onset and spread of the virus in different ways
 
 ![Covid - One Dose](https://user-images.githubusercontent.com/101907663/177395397-94e33976-5960-46a8-aec0-7f3c1bdf95b3.png)
 
