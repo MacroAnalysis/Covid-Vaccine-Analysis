@@ -31,4 +31,16 @@ The trend is obvious but none of this data matters without relativity.
 
 > So, why is Africa staying so resillient when compared to the West? Why are western countries with less populations than entire continents experiencing more deaths per million people?
 
+> Some quick notes on India. 
+  -They were crippled by previous failed "vaccines" from the west. Specifically the WHO/ Bill Gates administering polio shots that resulted in many problems such as paralysis. The frequency of vaccinations adminstered to the people of India directly resulted in cases of NPAFP (paralysis).  (https://www.globalresearch.ca/gates-globalist-vaccine-agenda-win-win-pharma-mandatory-vaccination/5709493) 
+  
+  After the NTAGI cut all ties with Bill Gates/WHO in 2017, they began studying the correlation between the vaccine and it's frequency of use. And cases of paralysis began to die down drastically.
+  ![India Study](https://user-images.githubusercontent.com/101907663/177585600-bb69499c-e2ed-4281-b252-fc94b39df544.png)
+  
+  This study ((https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121585/pdf/ijerph-15-01755.pdf) directly attributed cases of paralysis to the vaccine and it's frequency of use
+  
+
+  -Rejected emergency use of the Pfizer Covid-19 Vaccine, citing lack of data and . (https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MTMyNQ==)
+
+![India rejects Pfizer](https://user-images.githubusercontent.com/101907663/177577842-8e863c92-3b1a-4858-9806-747c88831963.png)
 
