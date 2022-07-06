@@ -1,7 +1,7 @@
 # Covid Vaccine Analysis
 Aggregated data on Covid-19 and their "vaccines" that were created by companies such as: Pfizer, Moderna, Johnson &amp; Johnson and AstraZeneca. 
 
-## Table of Content:
+## Table of Contents:
   1.) Pfizer Documents
   
   2.) Data Analysis - Population size, person(s) at least one dose vaccinated, cumulative deaths
