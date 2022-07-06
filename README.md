@@ -48,9 +48,9 @@ The trend is obvious but none of this data matters without relativity.
   
   ![India Study](https://user-images.githubusercontent.com/101907663/177585600-bb69499c-e2ed-4281-b252-fc94b39df544.png)
   
-  - This study (taken directly from National Center for Biotechnology Information) ((https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121585/pdf/ijerph-15-01755.pdf) directly attributed cases of paralysis to the vaccine and it's frequency of use.
+  - This study (taken directly from National Center for Biotechnology Information) (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121585/pdf/ijerph-15-01755.pdf) directly attributed cases of paralysis to the vaccine and it's frequency of use.
   
-  - Rejected emergency use of the Pfizer Covid-19 Vaccine, citing lack of data. (https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MTMyNQ==)
+  - More recently, India rejected emergency use of the Pfizer Covid-19 Vaccine, citing lack of data. (https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=MTMyNQ==)
 
 ![India rejects Pfizer](https://user-images.githubusercontent.com/101907663/177577842-8e863c92-3b1a-4858-9806-747c88831963.png)
 
