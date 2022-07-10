@@ -6,7 +6,7 @@ Aggregated data on Covid-19 and their "vaccines" that were created by companies 
   
   2.) Data Analysis - Population size, person(s) at least one dose vaccinated, cumulative deaths
   
-  3.) India - Relationship with WHO
+  3.) India - Vaccine History - Relationship with WHO
 
 ## 1.) Pfizer Documents
 
@@ -22,25 +22,17 @@ Aggregated data on Covid-19 and their "vaccines" that were created by companies 
 
 ![Covid - Deaths](https://user-images.githubusercontent.com/101907663/177395366-bb5253ff-5f9a-4aa5-a06b-b0210f932812.png)
 
-> So, why did I analyze these countries? 
-
-Well, they all have different vaccination rates and handled the onset and spread of the virus in different ways
-
 ![Covid - One Dose](https://user-images.githubusercontent.com/101907663/177395397-94e33976-5960-46a8-aec0-7f3c1bdf95b3.png)
 
 Here are the same countries with their respective one dose vaccination rates.
-
-The trend is obvious but none of this data matters without relativity.
 
 > What about population size?
 
 ![covid - Population](https://user-images.githubusercontent.com/101907663/177395418-092afca5-7487-4f55-8425-d01645b08529.png)
 
-> So, why is Africa staying so resillient when compared to the West? 
-
 > Why are western countries with less populations than entire continents experiencing more deaths per million people?
 
-## 3.) India - Relationship with WHO
+## 3.) India - Vaccine History - Relationship with WHO
  
   - They were crippled by previous failed "vaccines" from the west. The WHO/ Bill Gates administering polio shots that resulted in many problems such as paralysis. The frequency of vaccinations adminstered to the people of India directly resulted in cases of NPAFP (paralysis).  (https://www.globalresearch.ca/gates-globalist-vaccine-agenda-win-win-pharma-mandatory-vaccination/5709493) 
   
