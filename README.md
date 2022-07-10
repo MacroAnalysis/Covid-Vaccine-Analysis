@@ -2,13 +2,13 @@
 Aggregated data on Covid-19 and their "vaccines" that were created by companies such as: Pfizer, Moderna, Johnson &amp; Johnson and AstraZeneca. 
 
 ## Table of Contents:
-  1.) Pfizer Documents
+  1.) Pfizer
   
   2.) Data Analysis - Population size, person(s) at least one dose vaccinated, cumulative deaths
   
   3.) India - Vaccine History - Relationship with WHO
 
-## 1.) Pfizer Documents
+## 1.) Pfizer
 
   - The following link will download the Pfizer documents released on July 1 2022: https://pdata0916.s3.us-east-2.amazonaws.com/pdocs/multiple/pd-production-070122.zip
     
@@ -17,6 +17,8 @@ Aggregated data on Covid-19 and their "vaccines" that were created by companies 
 ![Pfizer - Data](https://user-images.githubusercontent.com/101907663/177396118-e316d67c-fb4a-4c03-87df-dd2311799625.png)
 
   - This is just one of the many concerning revelations of the Pfizer documents, this one being released on 4 days ago.
+
+  - Uruguay Halts Pfizer COVID-19 Vaccine for children under the age of 13. Judge Demands Government Officials Turn Over Pfizer Contracts, ingredients, etc.
 
 ## 2.) Data Analysis - Population size, person(s) at least one dose vaccinated, cumulative deaths
 
